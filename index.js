@@ -2,5 +2,6 @@
 let main = document.getElementById("main");
 main.remove();
 let newHeader = document.createElement('h1');
-let newNode = document.createTextNode('')
+let newNode = document.createTextNode('Edwin is the champion');
+newHeader.appendChild(newNode);
 
