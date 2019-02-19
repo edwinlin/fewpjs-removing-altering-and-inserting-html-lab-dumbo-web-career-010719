@@ -1,2 +1,2 @@
 // Write your code here!
-document.getElementBy
+document.getElementById("main#main")
