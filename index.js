@@ -1,2 +1,3 @@
 // Write your code here!
-document.getElementById("main#main")
+let main = document.getElementById("main#main");
+main.remove();
